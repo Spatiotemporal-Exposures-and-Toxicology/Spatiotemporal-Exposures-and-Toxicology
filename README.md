@@ -49,6 +49,7 @@ Google style guide for R code
 RMarkdown documentation
 Roxygen2 documentation
 Git documentation
+ROpenSci https://ropensci.org/packages/
 
 By following this SOP, we can ensure that our R code is consistent, well-documented, and reproducible, which will improve the quality and impact of our research.
 
