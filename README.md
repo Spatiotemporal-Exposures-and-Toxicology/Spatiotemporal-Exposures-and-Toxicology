@@ -35,12 +35,20 @@ We follow the Google style guide for R code to ensure consistency in our formatt
 3.4. Version control
 We use Git and GitHub for version control, which allows us to track changes to our code over time and collaborate with other team members. We follow best practices for Git, such as creating descriptive commit messages and branching strategies.
 
-Responsibilities
+4. Responsibilities
 All members of our research group are responsible for following this SOP when writing R code. This includes attending training sessions, using the recommended tools and software, and regularly reviewing and updating code documentation.
-Review and revision
+
+5. Review and revision
 This SOP will be reviewed and updated as needed to ensure that it remains relevant and effective. All members of our research group are encouraged to provide feedback and suggestions for improvement.
-References
+
+6. References
 Google style guide for R code
 RMarkdown documentation
 Roxygen2 documentation
 Git documentation
+
+By following this SOP, we can ensure that our R code is consistent, well-documented, and reproducible, which will improve the quality and impact of our research.
+
+
+
+
