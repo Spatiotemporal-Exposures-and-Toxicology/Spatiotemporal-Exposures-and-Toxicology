@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 Standard Operating Procedure for Writing R Code
 
-Purpose
+1. Purpose
 The purpose of this SOP is to establish a standard for writing R code in our research group. This will ensure that our code is consistent, well-documented, and reproducible.
-Scope
+
+2. Scope
 This SOP applies to all members of our research group who write R code, including functions and scripts.
-Guidelines
+
+3. Guidelines
+
 3.1. File types
 Functions are written using basic R files (.R) and scripts, or data analysis workflows, are written in RMarkdown (.Rmd). This ensures that our code is well-organized and easy to read.
 
