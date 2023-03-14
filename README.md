@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Standard Operating Procedure for Writing R Code
+
+Purpose
+The purpose of this SOP is to establish a standard for writing R code in our research group. This will ensure that our code is consistent, well-documented, and reproducible.
+Scope
+This SOP applies to all members of our research group who write R code, including functions and scripts.
+Guidelines
+3.1. File types
+Functions are written using basic R files (.R) and scripts, or data analysis workflows, are written in RMarkdown (.Rmd). This ensures that our code is well-organized and easy to read.
+
+3.2. Documentation
+We use Roxygen2 to document our functions and scripts. This allows us to automatically generate documentation in a standardized format, making our code more accessible to others.
+
+3.3. Formatting and style
+We follow the Google style guide for R code to ensure consistency in our formatting and style. This includes guidelines for naming conventions, indentation, spacing, comments, and more.
+
+3.4. Version control
+We use Git and GitHub for version control, which allows us to track changes to our code over time and collaborate with other team members. We follow best practices for Git, such as creating descriptive commit messages and branching strategies.
+
+Responsibilities
+All members of our research group are responsible for following this SOP when writing R code. This includes attending training sessions, using the recommended tools and software, and regularly reviewing and updating code documentation.
+Review and revision
+This SOP will be reviewed and updated as needed to ensure that it remains relevant and effective. All members of our research group are encouraged to provide feedback and suggestions for improvement.
+References
+Google style guide for R code
+RMarkdown documentation
+Roxygen2 documentation
+Git documentation
