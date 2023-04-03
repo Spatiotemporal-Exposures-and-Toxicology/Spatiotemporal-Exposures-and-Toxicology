@@ -32,10 +32,13 @@ Functions are written using basic R files (.R) and scripts, or data analysis wor
 3.2. Documentation
 We use Roxygen2 to document our functions and scripts. This allows us to automatically generate documentation in a standardized format, making our code more accessible to others.
 
-3.3. Formatting and style
+3.3. Graph Workflow 
+We will use the diagrammeR package to create DAG-style graph visualizations of our methods code workflow. https://rich-iannone.github.io/DiagrammeR/
+
+3.4. Formatting and style
 We follow the Google style guide for R code to ensure consistency in our formatting and style. This includes guidelines for naming conventions, indentation, spacing, comments, and more.
 
-3.4. Version control
+3.5. Version control
 We use Git and GitHub for version control, which allows us to track changes to our code over time and collaborate with other team members. We follow best practices for Git, such as creating descriptive commit messages and branching strategies.
 
 4. Responsibilities
