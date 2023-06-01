@@ -1,5 +1,5 @@
 # Spatiotemporal Exposures and Toxicology
-This github page is a part of the [Spatiotemporal Exposures and Toxicology Group a.k.a. {SET}](http://datascience.codeforsanfrancisco.or](https://www.niehs.nih.gov/research/atniehs/labs/ptb/spatiotemporal/index.cfm) at [NIEHS](https://www.niehs.nih.gov).  
+This github page is a part of the [Spatiotemporal Exposures and Toxicology Group a.k.a. {SET}](https://www.niehs.nih.gov/research/atniehs/labs/ptb/spatiotemporal/index.cfm) at [NIEHS](https://www.niehs.nih.gov).  
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
