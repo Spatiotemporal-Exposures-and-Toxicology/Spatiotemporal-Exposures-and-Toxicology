@@ -6,6 +6,7 @@ Github for open-source code and projects from [{SET}](https://www.niehs.nih.gov/
 * Spatial and Spatiotemporal Statistics
    - Gaussian processes
    - Penalized Regression
+* Geographic Information Systems
 * Land Use Regression 
 * Artificial Neural Networks
 
