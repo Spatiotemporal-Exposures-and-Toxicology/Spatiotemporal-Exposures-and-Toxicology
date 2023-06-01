@@ -1,5 +1,5 @@
-# Spatiotemporal Exposures and Toxicology
-This is the landing github for[{SET}](https://www.niehs.nih.gov/research/atniehs/labs/ptb/spatiotemporal/index.cfm) at [NIEHS](https://www.niehs.nih.gov).  
+# { Spatiotemporal Exposures and Toxicology }
+Github for open-source code and projects from [{SET}](https://www.niehs.nih.gov/research/atniehs/labs/ptb/spatiotemporal/index.cfm).
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
