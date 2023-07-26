@@ -12,7 +12,8 @@ Github for open-source code and projects from [{SET}](https://www.niehs.nih.gov/
 
 
 ### Software We Use
-* R, RMarkdown, RShiny 
+* R, RMarkdown, RShiny
+* Julia 
 * Python, PyTorch
 * Linux
 * Jupyter Notebooks
